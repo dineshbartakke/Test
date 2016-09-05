@@ -9,6 +9,6 @@ public class MathTest {
 		Math mathObj = new Math();
 
 		System.out.println(" Add (2, 3)--> " + mathObj.add(2, 3));		
-		System.out.println(" Add (4, 6)--> " + mathObj.add(4,6));
+		System.out.println(" Mul (4, 6)--> " + mathObj.mul(4,6));
 	}
 }
